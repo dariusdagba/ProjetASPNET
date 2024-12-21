@@ -1,0 +1,30 @@
+﻿c@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="junbotron">
+    <h1 class="display-4">Bienvenue dans JournalApp!</h1>
+    <p class="lead">Ceette application permet de gérer des articles. Vous pouvez créer, lire, mettre à jour et supprimer des articles.</p>
+    <hr class="my-4">
+    <p>Pour commencer, cliquer sur le bouton ci-dessous pour voir la liste des articles du journal.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Créer un nouvel article</h2>
+        <p>Vous pouvez ajouter un nouvel article en cliquant sur le bouton ci-dessous.</p>
+        <a class="btn btn-success" href="@Url.Action("Create","Article")">Ajouter un article</a>
+    </div>
+    <div class="col-md-4">
+        <h2>Voir les articles</h2>
+        <p>Consulter les articles de journal existants.</p>
+        <a class="btn btn-primary" href="@Url.Action("Index","Article")">Voir les articles</a>
+    </div>
+    <div class="col-md-4">
+        <h2>Contact</h2>
+        <p>Pour toute question d'assistance n'hésitez pas à nous contacter.</p>
+        <a class="btn btn-info" href="mailto:support@journalapp.com">Nous contacter</a>
+    </div>
+</div>
+
+

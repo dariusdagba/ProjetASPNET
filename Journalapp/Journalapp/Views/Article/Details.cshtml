@@ -1,0 +1,21 @@
+﻿@model JournalApp.Models.Article
+
+@{
+	ViewData["Title"] = "Details";
+}
+
+<div class="container mt-4">
+	<h1>@ViewData["Title"]</h1>
+
+	<div class="card">
+		<div class="card-body">
+			<h5 class="card-tiltle">@Html.DisplayFor(model => model.Titre)</h5>
+			<p class="card-text"><strong>Contenu:</strong>@Html.DisplayFor(model => model.Contenu)</p>
+			<p class="card-text"><strong>Date Publication:</strong>@Html.DisplayFor(model => model.DatePublication)</p>
+			<p class="card-text"><strong>Auteur:</strong>@Html.DisplayFor(model => model.Auteur)</p>
+			<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Modifier</a>
+			<a asp-action="Index" class="btn btn-warning">Back to List</a>
+
+		</div>
+	</div>
+</div>

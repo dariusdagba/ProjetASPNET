@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Views\\Plats\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestaurantApp\\Views\\Plats\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Views\\Plats\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestaurantApp\\Views\\Plats\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Controllers\\PlatsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestaurantApp\\Controllers\\PlatsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Data\\RestaurantContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestaurantApp\\Data\\RestaurantContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestaurantApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Models\\Plat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestaurantApp\\Models\\Plat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestaurantApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Views\\Plats\\Details.cshtml",
+              "RelativeDocumentMoniker": "RestaurantApp\\Views\\Plats\\Details.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Views\\Plats\\Details.cshtml",
+              "RelativeToolTip": "RestaurantApp\\Views\\Plats\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T00:11:49.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Views\\Plats\\Create.cshtml",
+              "RelativeDocumentMoniker": "RestaurantApp\\Views\\Plats\\Create.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Views\\Plats\\Create.cshtml",
+              "RelativeToolTip": "RestaurantApp\\Views\\Plats\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T00:11:41.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlatsController.cs",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Controllers\\PlatsController.cs",
+              "RelativeDocumentMoniker": "RestaurantApp\\Controllers\\PlatsController.cs",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Controllers\\PlatsController.cs",
+              "RelativeToolTip": "RestaurantApp\\Controllers\\PlatsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:09:17.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantApp\\Program.cs",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Program.cs",
+              "RelativeToolTip": "RestaurantApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:36:54.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plat.cs",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Models\\Plat.cs",
+              "RelativeDocumentMoniker": "RestaurantApp\\Models\\Plat.cs",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Models\\Plat.cs",
+              "RelativeToolTip": "RestaurantApp\\Models\\Plat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:27:44.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestaurantContext.cs",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Data\\RestaurantContext.cs",
+              "RelativeDocumentMoniker": "RestaurantApp\\Data\\RestaurantContext.cs",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\Data\\RestaurantContext.cs",
+              "RelativeToolTip": "RestaurantApp\\Data\\RestaurantContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:27:10.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\RestaurantApp\\RestaurantApp\\appsettings.json",
+              "RelativeToolTip": "RestaurantApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T00:25:40.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

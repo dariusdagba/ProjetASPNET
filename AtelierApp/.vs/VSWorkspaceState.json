@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AtelierApp",
+    "\\AtelierApp\\Controllers",
+    "\\AtelierApp\\Data",
+    "\\AtelierApp\\Models",
+    "\\AtelierApp\\Views",
+    "\\AtelierApp\\Views\\Atelier",
+    "\\AtelierApp\\Views\\Home"
+  ],
+  "SelectedNode": "\\AtelierApp\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,20 @@
+﻿@model AtelierApp.Models.Atelier
+
+@{
+	ViewData["Title"] = "Details";
+}
+
+<div class="container mt-4">
+	<h1>@ViewData["Title"]</h1>
+
+	<div class="card">
+		<div class="card-body">
+			<h5 class="card-tiltle">@Html.DisplayFor(model => Model.Nom)</h5>
+			<p class="card-text"><strong>Description:</strong>@Html.DisplayFor(model => model.Nom)</p>
+			<p class="card-text"><strong>Prix:</strong>@Html.DisplayFor(model => model.Prix)</p>
+			<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+			<a asp-action="Index" class="btn btn-warning">Back to List</a>
+
+		</div>
+	</div>
+</div>

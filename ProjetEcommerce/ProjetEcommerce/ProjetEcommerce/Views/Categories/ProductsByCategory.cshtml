@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ProjetEcommerce.Models.Produit>
+
+@{
+    ViewData["Title"] = "Products by Category";
+}
+
+<h1>Produits in @ViewBag.CategorieNom</h1>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-info"> 
+        <tr >
+            <th>Nom</th>
+            <th>Description</th>
+            <th>Prix</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var produit in Model)
+        {
+            <tr>
+                <td>@produit.ProduitNom</td>
+                <td>@produit.Description</td>
+                <td>@produit.Prix</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

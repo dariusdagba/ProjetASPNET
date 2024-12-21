@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ProjetEcommerce.Models.Categorie>
+
+@{
+    ViewData["Title"] = "Display";
+}
+
+<h1>Display</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table table-bordered table-hover">
+    <thead class="table-info">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CategorieNom)
+            </th>
+            <th>Products</th>
+            <th>
+                Editer
+            </th>
+            <th>
+                Details
+            </th>
+            <th>
+                Supprimer
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategorieNom)
+            </td>
+                <td>
+                    <a asp-controller="Categorie" asp-action="ProductsByCategory" asp-route-categorieId="@item.CategorieId">
+                        View Produits in @item.CategorieNom
+                    </a>
+                </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CategorieId">Edit</a> |
+                
+                </td>
+            <td>
+               
+                <a asp-action="Details" asp-route-id="@item.CategorieId">Details</a> |
+              
+            </td>
+            <td>
+            
+                <a asp-action="Delete" asp-route-id="@item.CategorieId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

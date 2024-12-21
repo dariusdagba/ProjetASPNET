@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="junbotron">
+    <h1 class="display-4">Bienvenue dans LibraryApp!</h1>
+    <p class="lead">Ceette application permet de gérer des livres. Vous pouvez créer, lire, mettre à jour et supprimer des livres.</p>
+    <hr class="my-4">
+    <p>Pour commencer, cliquer sur le bouton ci-dessous pour voir la liste des livres.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Créer un nouveau livre</h2>
+        <p>Vous pouvez ajouter un nouveau livre en cliquant sur le bouton ci-dessous.</p>
+        <a class="btn btn-success" href="@Url.Action("Create","Books")">Ajouter un livre</a>
+    </div>
+    <div class="col-md-4">
+        <h2>Voir les articles</h2>
+        <p>Consulter les livres existants.</p>
+        <a class="btn btn-primary" href="@Url.Action("Index","Books")">Voir les livres</a>
+    </div>
+    <div class="col-md-4">
+        <h2>Contact</h2>
+        <p>Pour toute question d'assistance n'hésitez pas à nous contacter.</p>
+        <a class="btn btn-info" href="mailto:support@LibraryApp.com">Nous contacter</a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Créer un nouvel auteur</h2>
+        <p>Vous pouvez ajouter un nouvel auteur en cliquant sur le bouton ci-dessous.</p>
+        <a class="btn btn-success" href="@Url.Action("Create","Authors")">Ajouter un auteur</a>
+    </div>
+    <div class="col-md-4">
+        <h2>Voir les articles</h2>
+        <p>Consulter les auteurs existants.</p>
+        <a class="btn btn-primary" href="@Url.Action("Index","Authors")">Voir les auteurs</a>
+    </div>
+    <div class="col-md-4">
+        <h2>Contact</h2>
+        <p>Pour toute question d'assistance n'hésitez pas à nous contacter.</p>
+        <a class="btn btn-info" href="mailto:support@LibraryApp.com">Nous contacter</a>
+    </div>
+</div>
+

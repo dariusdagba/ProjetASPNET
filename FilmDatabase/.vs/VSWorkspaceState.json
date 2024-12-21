@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FilmDatabase",
+    "\\FilmDatabase\\Data",
+    "\\FilmDatabase\\Migrations",
+    "\\FilmDatabase\\Models"
+  ],
+  "SelectedNode": "\\FilmDatabase\\Models\\Film.cs",
+  "PreviewInSolutionExplorer": false
+}

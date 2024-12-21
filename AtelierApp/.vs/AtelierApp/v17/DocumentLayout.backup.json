@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|c:\\users\\skyda\\source\\repos\\atelierapp\\atelierapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|solutionrelative:atelierapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|c:\\users\\skyda\\source\\repos\\atelierapp\\atelierapp\\views\\atelier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|solutionrelative:atelierapp\\views\\atelier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|c:\\users\\skyda\\source\\repos\\atelierapp\\atelierapp\\views\\atelier\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|solutionrelative:atelierapp\\views\\atelier\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|c:\\users\\skyda\\source\\repos\\atelierapp\\atelierapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|solutionrelative:atelierapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|c:\\users\\skyda\\source\\repos\\atelierapp\\atelierapp\\views\\atelier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|solutionrelative:atelierapp\\views\\atelier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|c:\\users\\skyda\\source\\repos\\atelierapp\\atelierapp\\views\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|solutionrelative:atelierapp\\views\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|c:\\users\\skyda\\source\\repos\\atelierapp\\atelierapp\\views\\atelier\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|solutionrelative:atelierapp\\views\\atelier\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|c:\\users\\skyda\\source\\repos\\atelierapp\\atelierapp\\controllers\\ateliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|solutionrelative:atelierapp\\controllers\\ateliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|c:\\users\\skyda\\source\\repos\\atelierapp\\atelierapp\\data\\ateliercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|solutionrelative:atelierapp\\data\\ateliercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|c:\\users\\skyda\\source\\repos\\atelierapp\\atelierapp\\models\\atelier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|solutionrelative:atelierapp\\models\\atelier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|c:\\users\\skyda\\source\\repos\\atelierapp\\atelierapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A7B6C-154A-46D8-965F-CDCEA5510166}|AtelierApp\\AtelierApp.csproj|solutionrelative:atelierapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AtelierApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AtelierApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T00:17:12.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Views\\Atelier\\Index.cshtml",
+              "RelativeDocumentMoniker": "AtelierApp\\Views\\Atelier\\Index.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Views\\Atelier\\Index.cshtml",
+              "RelativeToolTip": "AtelierApp\\Views\\Atelier\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T00:15:17.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Views\\Atelier\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AtelierApp\\Views\\Atelier\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Views\\Atelier\\Delete.cshtml",
+              "RelativeToolTip": "AtelierApp\\Views\\Atelier\\Delete.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T00:14:52.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Program.cs",
+              "RelativeDocumentMoniker": "AtelierApp\\Program.cs",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Program.cs",
+              "RelativeToolTip": "AtelierApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:14:12.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Views\\Atelier\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AtelierApp\\Views\\Atelier\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Views\\Atelier\\Edit.cshtml",
+              "RelativeToolTip": "AtelierApp\\Views\\Atelier\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T00:14:05.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Views\\Create.cshtml",
+              "RelativeDocumentMoniker": "AtelierApp\\Views\\Create.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Views\\Create.cshtml",
+              "RelativeToolTip": "AtelierApp\\Views\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T00:13:24.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Views\\Atelier\\Details.cshtml",
+              "RelativeDocumentMoniker": "AtelierApp\\Views\\Atelier\\Details.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Views\\Atelier\\Details.cshtml",
+              "RelativeToolTip": "AtelierApp\\Views\\Atelier\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T23:59:13.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AtelierController.cs",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Controllers\\AtelierController.cs",
+              "RelativeDocumentMoniker": "AtelierApp\\Controllers\\AtelierController.cs",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Controllers\\AtelierController.cs",
+              "RelativeToolTip": "AtelierApp\\Controllers\\AtelierController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:56:00.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AtelierContext.cs",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Data\\AtelierContext.cs",
+              "RelativeDocumentMoniker": "AtelierApp\\Data\\AtelierContext.cs",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Data\\AtelierContext.cs",
+              "RelativeToolTip": "AtelierApp\\Data\\AtelierContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:55:54.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Atelier.cs",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Models\\Atelier.cs",
+              "RelativeDocumentMoniker": "AtelierApp\\Models\\Atelier.cs",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Models\\Atelier.cs",
+              "RelativeToolTip": "AtelierApp\\Models\\Atelier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:55:50.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AtelierApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AtelierApp\\AtelierApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AtelierApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:55:49.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

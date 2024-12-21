@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skyda\\source\\repos\\AppTrans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\views\\produits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\views\\produits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\views\\produits\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\views\\produits\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\views\\produits\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\views\\produits\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\views\\produits\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\views\\produits\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\views\\produits\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\views\\produits\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\controllers\\produitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\controllers\\produitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|c:\\users\\skyda\\source\\repos\\apptrans\\apptrans\\data\\apptranscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE1FA2-E99E-4D76-9091-39FDE27B4AD4}|AppTrans\\AppTrans.csproj|solutionrelative:apptrans\\data\\apptranscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AppTrans\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AppTrans\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T00:01:34.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppTrans\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppTrans\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T00:01:28.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AppTrans\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AppTrans\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T00:01:20.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AppTrans\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AppTrans\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T00:01:17.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Produits\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AppTrans\\Views\\Produits\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Produits\\Delete.cshtml",
+              "RelativeToolTip": "AppTrans\\Views\\Produits\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T00:00:35.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Produits\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppTrans\\Views\\Produits\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Produits\\Edit.cshtml",
+              "RelativeToolTip": "AppTrans\\Views\\Produits\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T23:50:13.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Produits\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppTrans\\Views\\Produits\\Details.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Produits\\Details.cshtml",
+              "RelativeToolTip": "AppTrans\\Views\\Produits\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T23:23:32.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Produits\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppTrans\\Views\\Produits\\Create.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Produits\\Create.cshtml",
+              "RelativeToolTip": "AppTrans\\Views\\Produits\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T23:08:31.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Produits\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppTrans\\Views\\Produits\\Index.cshtml",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Views\\Produits\\Index.cshtml",
+              "RelativeToolTip": "AppTrans\\Views\\Produits\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T23:08:10.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProduitsController.cs",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Controllers\\ProduitsController.cs",
+              "RelativeDocumentMoniker": "AppTrans\\Controllers\\ProduitsController.cs",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Controllers\\ProduitsController.cs",
+              "RelativeToolTip": "AppTrans\\Controllers\\ProduitsController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAADgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:53:55.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\appsettings.json",
+              "RelativeDocumentMoniker": "AppTrans\\appsettings.json",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\appsettings.json",
+              "RelativeToolTip": "AppTrans\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T22:50:58.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Program.cs",
+              "RelativeDocumentMoniker": "AppTrans\\Program.cs",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Program.cs",
+              "RelativeToolTip": "AppTrans\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:49:54.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppTransContext.cs",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Data\\AppTransContext.cs",
+              "RelativeDocumentMoniker": "AppTrans\\Data\\AppTransContext.cs",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Data\\AppTransContext.cs",
+              "RelativeToolTip": "AppTrans\\Data\\AppTransContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:47:56.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "AppTrans\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\skyda\\source\\repos\\AppTrans\\AppTrans\\Models\\Produit.cs",
+              "RelativeToolTip": "AppTrans\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:40:24.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
